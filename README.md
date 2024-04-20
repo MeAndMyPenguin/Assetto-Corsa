@@ -1,3 +1,3 @@
-# mazdaprotege
+# README
 
-This is a test for the Mazda Protege mod for Assetto Corsa
+Assetto Corsa Mods made by Penguin
