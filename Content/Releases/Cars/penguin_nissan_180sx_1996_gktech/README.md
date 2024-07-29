@@ -1,4 +1,4 @@
-# Change Log
+# Nissan 180sx Change Log
 
 6-22-2024:
 - Cosmic suspension
@@ -40,8 +40,8 @@
 
 7-26-2024:
 - Adjusted tyre rate, damp, fz0, flex_gain, sat, dy & dx LUTS, friction_limit_angle
-- Adjusted power steering
 
 7-29-2024:
 - Adjusted tyre damp, falloff_level, rolling_resistance_slip
 - Adjusted suspenion max_length and min_length
+- Adjusted power steering

@@ -1,4 +1,4 @@
-# Change Log
+# BMW M3 E36 Change Log
 
 7-8-2024:
 - Cosmic suspension implementation

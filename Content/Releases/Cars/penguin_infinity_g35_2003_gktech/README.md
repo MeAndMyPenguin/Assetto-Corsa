@@ -1,4 +1,4 @@
-# Change Log
+# Infinity G35 Change Log
 
 6-3-24:
 - Cosmic suspension
