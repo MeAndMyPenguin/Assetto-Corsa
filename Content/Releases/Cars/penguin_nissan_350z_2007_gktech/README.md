@@ -1,3 +1,5 @@
+# Change Log
+
 6-3-24:
 - Cosmic suspension
 - V1 tires
@@ -22,7 +24,7 @@
 - Adjusted coilover max length
 
 7-22-2024:
-- Adjusted tyres
+- Adjusted tires
 - Adjusted suspension geometry
 - Adjusted setup.ini
 - Adjusted engine power

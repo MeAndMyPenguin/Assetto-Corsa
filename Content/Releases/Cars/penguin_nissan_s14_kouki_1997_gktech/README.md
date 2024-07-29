@@ -1,3 +1,5 @@
+# Change Log
+
 6-22-2024:
 - Cosmic suspension
 - S13 pickup points
@@ -34,10 +36,6 @@
 - Adjusted default setup
 - Adjusted weight
 - Adjusted CG
-- Adjusted power steering
-
-7-26-2024:
-- Adjusted tyre rate, damp, fz0, flex_gain, sat, dy & dx LUTS, friction_limit_angle
 - Adjusted power steering
 
 7-29-2024:
