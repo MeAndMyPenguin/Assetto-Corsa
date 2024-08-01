@@ -1,0 +1,1 @@
+# Chevy Corvette C6 Change Log
