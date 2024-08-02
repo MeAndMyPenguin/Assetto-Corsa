@@ -1,7 +1,7 @@
 # Infinity G35 Change Log
 
 8-2-2024:
-- Adjusted FZ0 and DX_CAMBER_REF
+- Adjusted FZ0, DX_CAMBER_REF, DCAMBER_LUT, COMBINED_FACTOR, CX_MULT, FALLOFF_SPEED
 - Adjusted setup.ini
 - Adjusted suspension.ini rear camber/toe
 - Adjusted default setup
