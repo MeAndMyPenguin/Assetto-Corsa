@@ -1,5 +1,12 @@
 # Infinity G35 Change Log
 
+8-2-2024:
+- Adjusted FZ0 and DX_CAMBER_REF
+- Adjusted setup.ini
+- Adjusted suspension.ini rear camber/toe
+- Adjusted default setup
+- Changed tyre name from SS to ST
+
 7-29-2024:
 - Adjusted tyre damp, falloff_level, rolling_resistance_slip
 - Adjusted suspenion max_length and min_length
