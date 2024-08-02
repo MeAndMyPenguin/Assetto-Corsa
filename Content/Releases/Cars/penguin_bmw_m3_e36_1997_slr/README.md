@@ -2,6 +2,7 @@
 
 8-2-2024:
 - Adjusted FZ0 and DX_CAMBER_REF
+- Adjusted rear coilover compression length
 
 7-29-2024:
 - Adjusted tyre rate, damp, falloff_level, rolling_resistance_slip
