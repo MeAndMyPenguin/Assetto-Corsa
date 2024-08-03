@@ -6,6 +6,8 @@
 - Adjusted suspension.ini rear camber/toe
 - Adjusted default setup
 - Changed tyre name from SS to ST
+- Swapped BC dampers with KW V3 dampers
+- Added chassis flex
 
 7-29-2024:
 - Adjusted tyre damp, falloff_level, rolling_resistance_slip
