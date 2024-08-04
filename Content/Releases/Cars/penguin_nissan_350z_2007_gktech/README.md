@@ -7,6 +7,7 @@
 - Adjusted default setup
 - Changed tyre name from SS to ST
 - Swapped BC dampers with KW V3 dampers
+- Re-made rear suspension geo with J's instead of DJ's
 - Added chassis flex
 
 7-29-2024:

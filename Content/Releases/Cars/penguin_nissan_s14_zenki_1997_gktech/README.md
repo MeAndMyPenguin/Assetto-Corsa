@@ -2,7 +2,9 @@
 
 8-2-2024:
 - Adjusted FZ0, DX_CAMBER_REF, DCAMBER_LUT, COMBINED_FACTOR, CX_MULT, FALLOFF_SPEED
+- Re-made rear suspension with J's instead of DJ's
 - Added chassis flex
+- Fixed refractions
 
 7-29-2024:
 - Adjusted tyre rate, damp, falloff_level, fz0, flex_gain, sat, dy & dx LUTS, friction_limit_angle, rolling_resistance_slip

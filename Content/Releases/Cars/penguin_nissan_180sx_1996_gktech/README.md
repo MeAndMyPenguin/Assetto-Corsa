@@ -2,6 +2,7 @@
 
 8-2-2024:
 - Adjusted FZ0, DX_CAMBER_REF, DCAMBER_LUT, COMBINED_FACTOR, CX_MULT, FALLOFF_SPEED
+- Re-made rear suspension with J's instead of DJ's
 - Added chassis flex
 
 7-29-2024:
