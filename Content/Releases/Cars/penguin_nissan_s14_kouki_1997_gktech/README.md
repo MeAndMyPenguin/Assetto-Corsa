@@ -1,5 +1,8 @@
 # Nissan S14 Kouki Change Log
 
+8-8-2024:
+- Adjusted tyre_heat_level/heat_mu/lat/long/wcurve luts for high/normal performance tyre
+
 8-4-2024:
 - Adjusted tyre_heat_level/heat_mu/lat/long/wcurve luts for high performance tyre
 - Added tyre options (high performance and street)
