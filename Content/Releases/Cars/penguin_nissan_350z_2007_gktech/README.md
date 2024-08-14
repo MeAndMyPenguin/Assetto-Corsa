@@ -1,10 +1,12 @@
 # Nissan 350z Change Log
 
-8-8-2024:
+8-11-2024:
 - Adjusted tyre_heat_level/heat_mu/lat/long/wcurve luts for high/normal performance tyre
 
 8-2-2024:
 - Adjusted FZ0, DX_CAMBER_REF, DCAMBER_LUT, COMBINED_FACTOR, CX_MULT, FALLOFF_SPEED
+- Adjusted tyre_heat_level/heat_mu/lat/long/wcurve luts for high performance tyre
+- Added tyre options (high performance and street)
 - Adjusted setup.ini
 - Adjusted suspension.ini rear camber/toe
 - Adjusted default setup

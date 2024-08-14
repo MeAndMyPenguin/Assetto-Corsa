@@ -1,17 +1,15 @@
 # Nissan S14 Kouki Change Log
 
-8-8-2024:
+8-11-2024:
 - Adjusted tyre_heat_level/heat_mu/lat/long/wcurve luts for high/normal performance tyre
-
-8-4-2024:
-- Adjusted tyre_heat_level/heat_mu/lat/long/wcurve luts for high performance tyre
-- Added tyre options (high performance and street)
 
 8-2-2024:
 - Adjusted FZ0, DX_CAMBER_REF, DCAMBER_LUT, COMBINED_FACTOR, CX_MULT, FALLOFF_SPEED
+- Adjusted tyre_heat_level/heat_mu/lat/long/wcurve luts for high performance tyre
+- Added tyre options (high performance and street)
+- Adjusted default setup
 - Re-made rear suspension with J's instead of DJ's
 - Added chassis flex
-- Fixed refractions
 
 7-29-2024:
 - Adjusted tyre rate, damp, falloff_level, fz0, flex_gain, sat, dy & dx LUTS, friction_limit_angle, rolling_resistance_slip
