@@ -1,7 +1,8 @@
 # Nissan S14 Kouki Change Log
 
-8-11-2024:
+8-13-2024:
 - Adjusted tyre_heat_level/heat_mu/lat/long/wcurve luts for high/normal performance tyre
+- Implemented MeisterR dampers
 
 8-2-2024:
 - Adjusted FZ0, DX_CAMBER_REF, DCAMBER_LUT, COMBINED_FACTOR, CX_MULT, FALLOFF_SPEED
