@@ -1,5 +1,13 @@
 # Nissan 180sx Change Log
 
+2-21-2025:
+
+- Adjusted tyres.ini
+- Adjusted tyre lat/long luts
+- Adjusted tyre level/mu/speed luts
+- Adjusted camber spring/dy luts
+- Removed high performance tyre
+
 8-13-2024:
 - Adjusted tyre_heat_level/heat_mu/lat/long/wcurve luts for high/normal performance tyre
 - Implemented MeisterR dampers

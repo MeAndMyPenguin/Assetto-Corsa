@@ -1,5 +1,13 @@
 # BMW M3 E36 Change Log
 
+2-21-2025:
+
+- Adjusted tyres.ini
+- Adjusted tyre lat/long luts
+- Adjusted tyre level/mu/speed luts
+- Adjusted camber spring/dy luts
+- Removed high performance tyre
+
 8-13-2024:
 - Implemented Flatout SR series coilover dampers
 
